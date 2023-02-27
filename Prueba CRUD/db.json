@@ -1,0 +1,12 @@
+{
+  "platos": [
+    {
+      "nombre": "Plato 1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Plato"
+    }
+  ]
+}
